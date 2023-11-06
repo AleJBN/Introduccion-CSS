@@ -1,0 +1,53 @@
+.background-all { 
+    background-image: url("istockphoto-1172427455-612x612.jpg");
+    background-repeat: repeat;
+}
+
+.background-vertical { 
+    background-image: url("istockphoto-1172427455-612x612.jpg");
+    background-repeat: repeat-y;
+}
+
+.background-fixed {
+    background-image: url("istockphoto-1172427455-612x612.jpg");    
+    background-attachment: fixed;
+    background-size: cover;
+}
+header ul{
+    color: blue;
+    }
+    
+    .main-lists{
+    color: rgb(15, 0, 100);
+    }
+    
+    footer ul li {
+    color: rgb(98, 0, 255);
+    }
+    
+    .item-green {
+        color: rgb(128, 0, 117);
+    }
+    
+    .item-red {
+    color: red;
+    }
+    
+    #h1-pag1{
+        color: rgb(43, 101, 226);
+    }
+    #h1-pag2{
+        color: rgb(220, 20, 20);
+    }
+    #main-pag1 {
+        background-color: cornflowerblue;
+    }
+    #main-pag2 {
+        background-color: aquamarine;
+    }
+    #footer-pag1{
+        color: crimson;
+    }
+    #footer-pag2{
+        color: olivedrab;
+    }
